@@ -1,4 +1,4 @@
 # Assyriology
-![tablet](images/OA tablet.jpg)
+![tablet](images/OA_tablet.jpg)
 
 Repository for Assyriology
